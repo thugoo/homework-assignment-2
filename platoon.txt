@@ -1,0 +1,346 @@
+[
+    {
+        "squad_number": 1,
+        "squad_members": [
+            {
+                "id": 0,
+                "rank": "SGT",
+                "name": "Ivanov",
+                "driver": "yes",
+                "time_on_duty": [
+                    "20:00",
+                    "21:00"
+                ]
+            },
+            {
+                "id": 1,
+                "rank": "PVT",
+                "name": "Saar",
+                "driver": "yes",
+                "time_on_duty": [
+                    "05:00",
+                    "04:00"
+                ]
+            },
+            {
+                "id": 2,
+                "rank": "PVT",
+                "name": "Ilves",
+                "driver": "no",
+                "time_on_duty": [
+                    "04:00",
+                    "02:00"
+                ]
+            },
+            {
+                "id": 3,
+                "rank": "PVT",
+                "name": "Paju",
+                "driver": "no",
+                "time_on_duty": [
+                    "04:00",
+                    "00:00"
+                ]
+            },
+            {
+                "id": 4,
+                "rank": "SGT",
+                "name": "Sild",
+                "driver": "no",
+                "time_on_duty": [
+                    "22:00",
+                    "03:00"
+                ]
+            },
+            {
+                "id": 5,
+                "rank": "PVT",
+                "name": "Kask",
+                "driver": "no",
+                "time_on_duty": [
+                    "23:00"
+                ]
+            },
+            {
+                "id": 6,
+                "rank": "SGT",
+                "name": "Roos",
+                "driver": "no",
+                "time_on_duty": [
+                    "05:00"
+                ]
+            },
+            {
+                "id": 7,
+                "rank": "PVT",
+                "name": "Mitt",
+                "driver": "no",
+                "time_on_duty": [
+                    "05:00",
+                    "01:00"
+                ]
+            }
+        ]
+    },
+    {
+        "squad_number": 2,
+        "squad_members": [
+            {
+                "id": 8,
+                "rank": "SGT",
+                "name": "Ivanov",
+                "driver": "jah",
+                "time_on_duty": [
+                    "20:00",
+                    "00:00"
+                ]
+            },
+            {
+                "id": 9,
+                "rank": "PVT",
+                "name": "Saar",
+                "driver": "jah",
+                "time_on_duty": [
+                    "20:00",
+                    "03:00"
+                ]
+            },
+            {
+                "id": 10,
+                "rank": "PVT",
+                "name": "Ilves",
+                "driver": "ei",
+                "time_on_duty": [
+                    "21:00"
+                ]
+            },
+            {
+                "id": 11,
+                "rank": "PVT",
+                "name": "Paju",
+                "driver": "ei",
+                "time_on_duty": [
+                    "22:00",
+                    "02:00"
+                ]
+            },
+            {
+                "id": 12,
+                "rank": "SGT",
+                "name": "Sild",
+                "driver": "ei",
+                "time_on_duty": [
+                    "20:00",
+                    "04:00"
+                ]
+            },
+            {
+                "id": 13,
+                "rank": "PVT",
+                "name": "Kask",
+                "driver": "ei",
+                "time_on_duty": [
+                    "22:00"
+                ]
+            },
+            {
+                "id": 14,
+                "rank": "PVT",
+                "name": "Koppel",
+                "driver": "ei",
+                "time_on_duty": [
+                    "23:00",
+                    "01:00"
+                ]
+            },
+            {
+                "id": 15,
+                "rank": "PVT",
+                "name": "Saks",
+                "driver": "ei",
+                "time_on_duty": [
+                    "21:00"
+                ]
+            },
+            {
+                "id": 16,
+                "rank": "PVT",
+                "name": "Saks",
+                "driver": "ei",
+                "time_on_duty": [
+                    "21:00",
+                    "05:00"
+                ]
+            },
+            {
+                "id": 17,
+                "rank": "PVT",
+                "name": "Saks",
+                "driver": "ei",
+                "time_on_duty": [
+                    "22:00"
+                ]
+            }
+        ]
+    },
+    {
+        "squad_number": 3,
+        "squad_members": [
+            {
+                "id": 18,
+                "rank": "SGT",
+                "name": "Allik",
+                "driver": "ei",
+                "time_on_duty": [
+                    "23:00",
+                    "01:00"
+                ]
+            },
+            {
+                "id": 19,
+                "rank": "PVT",
+                "name": "Uibo",
+                "driver": "ei",
+                "time_on_duty": [
+                    "00:00",
+                    "03:00"
+                ]
+            },
+            {
+                "id": 20,
+                "rank": "PVT",
+                "name": "Mitt",
+                "driver": "ei",
+                "time_on_duty": [
+                    "23:00",
+                    "00:00",
+                    "05:00"
+                ]
+            },
+            {
+                "id": 21,
+                "rank": "PVT",
+                "name": "Lepp",
+                "driver": "jah",
+                "time_on_duty": [
+                    "00:00",
+                    "02:00"
+                ]
+            },
+            {
+                "id": 22,
+                "rank": "SGT",
+                "name": "Roos",
+                "driver": "ei",
+                "time_on_duty": [
+                    "20:00",
+                    "23:00"
+                ]
+            },
+            {
+                "id": 23,
+                "rank": "PVT",
+                "name": "Mitt",
+                "driver": "ei",
+                "time_on_duty": [
+                    "21:00",
+                    "22:00",
+                    "04:00"
+                ]
+            }
+        ]
+    },
+    {
+        "squad_number": 4,
+        "squad_members": [
+            {
+                "id": 24,
+                "rank": "PVT",
+                "name": "Paju",
+                "driver": "no",
+                "time_on_duty": [
+                    "02:00",
+                    "03:00"
+                ]
+            },
+            {
+                "id": 25,
+                "rank": "SGT",
+                "name": "Sild",
+                "driver": "no",
+                "time_on_duty": [
+                    "20:00"
+                ]
+            },
+            {
+                "id": 26,
+                "rank": "PVT",
+                "name": "Kask",
+                "driver": "no",
+                "time_on_duty": [
+                    "03:00",
+                    "01:00"
+                ]
+            },
+            {
+                "id": 27,
+                "rank": "PVT",
+                "name": "Paju",
+                "driver": "no",
+                "time_on_duty": [
+                    "01:00"
+                ]
+            },
+            {
+                "id": 28,
+                "rank": "SGT",
+                "name": "Sild",
+                "driver": "no",
+                "time_on_duty": [
+                    "03:00",
+                    "04:00"
+                ]
+            },
+            {
+                "id": 29,
+                "rank": "PVT",
+                "name": "Kask",
+                "driver": "no",
+                "time_on_duty": [
+                    "21:00",
+                    "23:00"
+                ]
+            },
+            {
+                "id": 30,
+                "rank": "PVT",
+                "name": "Paju",
+                "driver": "no",
+                "time_on_duty": [
+                    "01:00",
+                    "02:00"
+                ]
+            },
+            {
+                "id": 31,
+                "rank": "SGT",
+                "name": "Sild",
+                "driver": "no",
+                "time_on_duty": [
+                    "02:00",
+                    "00:00"
+                ]
+            },
+            {
+                "id": 32,
+                "rank": "PVT",
+                "name": "Kask",
+                "driver": "no",
+                "time_on_duty": [
+                    "22:00",
+                    "05:00"
+                ]
+            }
+        ]
+    }
+]

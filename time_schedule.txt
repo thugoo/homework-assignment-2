@@ -1,0 +1,296 @@
+[
+    {
+        "stove_watch_schedule": [
+            {
+                "time": "20:00",
+                "name": "Ivanov",
+                "id": 0
+            },
+            {
+                "time": "21:00",
+                "name": "Ivanov",
+                "id": 0
+            },
+            {
+                "time": "22:00",
+                "name": "Sild",
+                "id": 4
+            },
+            {
+                "time": "23:00",
+                "name": "Kask",
+                "id": 5
+            },
+            {
+                "time": "00:00",
+                "name": "Paju",
+                "id": 3
+            },
+            {
+                "time": "01:00",
+                "name": "Mitt",
+                "id": 7
+            },
+            {
+                "time": "02:00",
+                "name": "Ilves",
+                "id": 2
+            },
+            {
+                "time": "03:00",
+                "name": "Sild",
+                "id": 4
+            },
+            {
+                "time": "04:00",
+                "name": "Saar",
+                "id": 1
+            },
+            {
+                "time": "05:00",
+                "name": "Saar",
+                "id": 1
+            }
+        ],
+        "patrol_schedule": [
+            {
+                "time": "04:00",
+                "first_name": "Ilves",
+                "second_name": "Paju",
+                "first_id": 2,
+                "second_id": 3
+            },
+            {
+                "time": "05:00",
+                "first_name": "Roos",
+                "second_name": "Mitt",
+                "first_id": 6,
+                "second_id": 7
+            }
+        ]
+    },
+    {
+        "stove_watch_schedule": [
+            {
+                "time": "20:00",
+                "name": "Saar",
+                "id": 9
+            },
+            {
+                "time": "21:00",
+                "name": "Ilves",
+                "id": 10
+            },
+            {
+                "time": "22:00",
+                "name": "Kask",
+                "id": 13
+            },
+            {
+                "time": "23:00",
+                "name": "Koppel",
+                "id": 14
+            },
+            {
+                "time": "00:00",
+                "name": "Ivanov",
+                "id": 8
+            },
+            {
+                "time": "01:00",
+                "name": "Koppel",
+                "id": 14
+            },
+            {
+                "time": "02:00",
+                "name": "Paju",
+                "id": 11
+            },
+            {
+                "time": "03:00",
+                "name": "Saar",
+                "id": 9
+            },
+            {
+                "time": "04:00",
+                "name": "Sild",
+                "id": 12
+            },
+            {
+                "time": "05:00",
+                "name": "Saks",
+                "id": 16
+            }
+        ],
+        "patrol_schedule": [
+            {
+                "time": "20:00",
+                "first_name": "Sild",
+                "second_name": "Ivanov",
+                "first_id": 12,
+                "second_id": 8
+            },
+            {
+                "time": "21:00",
+                "first_name": "Saks",
+                "second_name": "Saks",
+                "first_id": 16,
+                "second_id": 15
+            },
+            {
+                "time": "22:00",
+                "first_name": "Saks",
+                "second_name": "Paju",
+                "first_id": 17,
+                "second_id": 11
+            }
+        ]
+    },
+    {
+        "stove_watch_schedule": [
+            {
+                "time": "20:00",
+                "name": "Roos",
+                "id": 22
+            },
+            {
+                "time": "21:00",
+                "name": "Mitt",
+                "id": 23
+            },
+            {
+                "time": "22:00",
+                "name": "Mitt",
+                "id": 23
+            },
+            {
+                "time": "23:00",
+                "name": "Roos",
+                "id": 22
+            },
+            {
+                "time": "00:00",
+                "name": "Mitt",
+                "id": 20
+            },
+            {
+                "time": "01:00",
+                "name": "Allik",
+                "id": 18
+            },
+            {
+                "time": "02:00",
+                "name": "Lepp",
+                "id": 21
+            },
+            {
+                "time": "03:00",
+                "name": "Uibo",
+                "id": 19
+            },
+            {
+                "time": "04:00",
+                "name": "Mitt",
+                "id": 23
+            },
+            {
+                "time": "05:00",
+                "name": "Mitt",
+                "id": 20
+            }
+        ],
+        "patrol_schedule": [
+            {
+                "time": "23:00",
+                "first_name": "Allik",
+                "second_name": "Mitt",
+                "first_id": 18,
+                "second_id": 20
+            },
+            {
+                "time": "00:00",
+                "first_name": "Uibo",
+                "second_name": "Lepp",
+                "first_id": 19,
+                "second_id": 21
+            }
+        ]
+    },
+    {
+        "stove_watch_schedule": [
+            {
+                "time": "20:00",
+                "name": "Sild",
+                "id": 25
+            },
+            {
+                "time": "21:00",
+                "name": "Kask",
+                "id": 29
+            },
+            {
+                "time": "22:00",
+                "name": "Kask",
+                "id": 32
+            },
+            {
+                "time": "23:00",
+                "name": "Kask",
+                "id": 29
+            },
+            {
+                "time": "00:00",
+                "name": "Sild",
+                "id": 31
+            },
+            {
+                "time": "01:00",
+                "name": "Kask",
+                "id": 26
+            },
+            {
+                "time": "02:00",
+                "name": "Paju",
+                "id": 30
+            },
+            {
+                "time": "03:00",
+                "name": "Paju",
+                "id": 24
+            },
+            {
+                "time": "04:00",
+                "name": "Sild",
+                "id": 28
+            },
+            {
+                "time": "05:00",
+                "name": "Kask",
+                "id": 32
+            }
+        ],
+        "patrol_schedule": [
+            {
+                "time": "01:00",
+                "first_name": "Paju",
+                "second_name": "Paju",
+                "first_id": 30,
+                "second_id": 27
+            },
+            {
+                "time": "02:00",
+                "first_name": "Sild",
+                "second_name": "Paju",
+                "first_id": 31,
+                "second_id": 24
+            },
+            {
+                "time": "03:00",
+                "first_name": "Sild",
+                "second_name": "Kask",
+                "first_id": 28,
+                "second_id": 26
+            }
+        ]
+    }
+]
